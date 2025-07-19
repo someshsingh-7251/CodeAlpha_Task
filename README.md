@@ -34,7 +34,7 @@ Utilizes **MFCC feature extraction** and **deep learning** models like **CNN/RNN
 - Emotion classification using labeled audio data.
 - Datasets like **RAVDESS**, **TESS** used.
 
-📁 [View Notebook](https://github.com/someshsingh-7251/CodeAlpha_Task/blob/main/TASK%202%3A%20Emotion%20Recognition%20from%20Speech.ipynb)
+📁 [View Notebook](https://github.com/someshsingh-7251/CodeAlpha_Task/blob/main/Task%202%3A%20Emotion%20Recognition%20from%20Speech.ipynb)
 
 ---
 
